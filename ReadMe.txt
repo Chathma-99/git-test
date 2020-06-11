@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hey
-=======
-hey !!
->>>>>>> login
+hello git hub
